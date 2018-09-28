@@ -1,0 +1,5 @@
+1 = {
+  title = c_saari
+  max_settlements = 4
+  terrain = plains
+}

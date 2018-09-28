@@ -1,0 +1,14 @@
+# Mittland
+
+technology = {
+	titles = {
+		d_saari
+	}
+
+	1790 = {
+    military = 0.2
+		economy = 0.25
+		culture = 0.15
+	}
+
+}

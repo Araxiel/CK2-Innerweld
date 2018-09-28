@@ -1,0 +1,374 @@
+e_isenreik = {
+	capital = 1
+	color = { 175 175 175 }
+	color2 = { 175 175 175 }
+	k_mittland = {
+		capital = 1
+		color = { 251 3 163 }
+		color2 = { 251 3 163 }
+		d_seecant = {
+			capital = 1
+			color = { 67 205 18 }
+			color2 = { 67 205 18 }
+			c_seecant = {
+				b_langskuste = {
+				}
+				b_steinkust = {
+				}
+				b_kusthafen = {
+				}
+				b_irnasvold = {
+				}
+				color = { 67 205 18 }
+				color2 = { 67 205 18 }
+				culture = kustenfolk
+			}
+			c_raiteng = {
+				b_raiteng = {
+				}
+				b_qaiteng = {
+				}
+				b_koden = {
+				}
+				b_balagmo = {
+				}
+				color = { 107 244 138 }
+				color2 = { 107 244 138 }
+				culture = kustenfolk
+			}
+			c_norriviere = {
+				b_norriviere = {
+				}
+				b_aviborum = {
+				}
+				b_riversteed = {
+				}
+				b_tayeim = {
+				}
+				color = { 113 117 58 }
+				color2 = { 113 117 58 }
+				culture = kustenfolk
+			}
+		}
+		c_hillheim = {
+			b_hillburg = {
+			}
+			b_falsstand = {
+			}
+			b_munterstei = {
+			}
+			b_fallhim = {
+			}
+			color = { 205 53 100 }
+			color2 = { 205 53 100 }
+			culture = kustenfolk
+		}
+		c_clausthal = {
+			b_sameister	= {
+			}
+			b_wallbacherhof = {
+			}
+			b_vilefan = {
+			}
+			b_hinterzhof = {
+			}
+			color = { 100 66 100 }
+			color2 = { 50 50 50 }
+			culture = kustenfolk
+		}
+		c_nevenhigel = {
+			b_nevenhigel = {
+			}
+			b_wandermire = {
+			}
+			b_festinog = {
+			}
+			b_beinkirk = {
+			}
+			b_slyhall = {
+			}
+			color = { 100 66 100 }
+			color2 = { 50 50 50 }
+			culture = kustenfolk
+		}
+		c_nordnevenhil = {
+			b_varenholz = {
+			}
+			b_blickweiler = {
+			}
+			b_eppishausen = {
+			}
+			b_kranichfeld = {
+			}
+			color = { 100 66 100 }
+			color2 = { 50 50 50 }
+			culture = kustenfolk
+		}
+		c_wasastadt = {
+			b_wasastadt = {
+			}
+			b_eisenach = {
+			}
+			b_streekermoor = {
+			}
+			b_gadegast = {
+			}
+			color = { 100 66 100 }
+			color2 = { 50 50 50 }
+			culture = kustenfolk
+		}
+		c_riverbend = {
+			b_litzlung = {
+			}
+			b_suhlburg = {
+			}
+			b_friedenfels = {
+			}
+			b_oberweidach = {
+			}
+			color = { 100 66 100 }
+			color2 = { 50 50 50 }
+			culture = kustenfolk
+		}
+		c_shikanen = {
+			b_schwerborn = {
+			}
+			b_unterkirnach = {
+			}
+			b_drinhausen = {
+			}
+			b_obereula = {
+			}
+			color = { 100 66 100 }
+			color2 = { 50 50 50 }
+			culture = kustenfolk
+		}
+		c_riverzweig = {
+			b_riverzweig = {
+			}
+			b_hausruck = {
+			}
+			b_eremitenhof = {
+			}
+			b_frettholt = {
+			}
+			color = { 100 66 100 }
+			color2 = { 50 50 50 }
+			culture = kustenfolk
+		}
+	}
+	c_smallriver = {
+		b_dobra = {
+		}
+		b_obererbach = {
+		}
+		b_dosenbek = {
+		}
+		b_hartungs = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_pussalstuck = {
+		b_duttenberg = {
+		}
+		b_bassenheim = {
+		}
+		b_witzscherfsdorf = {
+		}
+		b_mainhardtsall = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_norkessal = {
+		b_barweiler = {
+		}
+		b_unterreut = {
+		}
+		b_barmen = {
+		}
+		b_engenberg = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = mittlefolk
+	}
+	c_middlekessal = {
+		b_langeforth = {
+		}
+		b_overbroeck = {
+		}
+		b_jaffen = {
+		}
+		b_limsonry = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = mittlefolk
+	}
+	c_estkassal = {
+		b_feldheim = {
+		}
+		b_gremberg = {
+		}
+		b_chabreliez = {
+		}
+		b_plockroy = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = mittlefolk
+	}
+	c_kronichsway = {
+		b_scheuerheck = {
+		}
+		b_lodomez = {
+		}
+		b_teralphen = {
+		}
+		b_rostenne = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_schonblikk = {
+	  b_kamm = {
+		}
+		b_stonesonry = {
+		}
+		b_anderghen = {
+		}
+		b_mabotte = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_hurlach = {
+	  b_kaltrum = {
+		}
+		b_karl = {
+		}
+		b_mathysart = {
+		}
+		b_rundershoek = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	#WIPWIP
+	c_wallenhausen = {
+		b_wallenhausen = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_hornsfeld = {
+		b_hornsfeld = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_schleppensbach = {
+		b_schleppensbach = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_lubitz = {
+		b_hallensen = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_weizmitz = {
+		b_hirzen = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_baumersreuth = {
+		b_mitterteich = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_hochborn = {
+		b_pfarrhof = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_hornsen = {
+		b_unterleiten = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_schlettach = {
+		b_torgelow = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_mittelhorst = {
+		b_wiebelsdorf = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_heilichwater = {
+		b_heilichwater = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+	c_johansburg = {
+		b_johansburg = {
+		}
+		b_johanshaus = {
+		}
+		b_panzing = {
+		}
+		b_yarlheim = {
+		}
+		color = { 100 66 100 }
+		color2 = { 50 50 50 }
+		culture = kustenfolk
+	}
+}
+
+d_saari = {
+	color = { 194 54 84 }
+	color2 = { 194 54 84 }
+	capital = 34
+	c_saari = {
+		b_saari = {
+		}
+		b_dottignies = {
+		}
+		b_ketzingen = {
+		}
+		b_paillart = {
+		}
+		color = { 194 54 84 }
+		color2 = { 194 54 84 }
+		culture = kustenfolk
+	}
+}
