@@ -1,0 +1,11 @@
+# County Title
+title = c_ramevi
+
+# Settlements
+max_settlements = 2
+b_wevi = castle
+b_balagmo = temple
+
+# Misc
+culture = costanordi
+religion = catholic

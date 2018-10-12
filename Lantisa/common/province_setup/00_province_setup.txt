@@ -1,0 +1,60 @@
+1 = {
+  title = c_ramevi
+  max_settlements = 2
+  terrain = plains
+}
+2 = {
+  title = c_tisto
+  max_settlements = 2
+  terrain = plains
+}
+3 = {
+  title = c_stratsa
+  max_settlements = 2
+  terrain = plains
+}
+4 = {
+  title = c_virggola
+  max_settlements = 5
+  terrain = plains
+}
+5 = {
+  title = c_sottosopral
+  max_settlements = 2
+  terrain = plains
+}
+6 = {
+  title = c_senzascogliere
+  max_settlements = 2
+  terrain = plains
+}
+7 = {
+  title = c_piccofiume
+  max_settlements = 2
+  terrain = plains
+}
+8 = {
+  title = c_tistoveste
+  max_settlements = 2
+  terrain = plains
+}
+9 = {
+  title = c_dolcicolline
+  max_settlements = 2
+  terrain = plains
+}
+10 = {
+  title = c_merkkantia
+  max_settlements = 6
+  terrain = plains
+}
+11 = {
+  title = c_merkkani
+  max_settlements = 5
+  terrain = plains
+}
+12 = {
+  title = c_pikksilia
+  max_settlements = 3
+  terrain = plains
+}

@@ -1,0 +1,393 @@
+# Debug
+500105 = {
+	## Placeholder
+	name = Alex
+	dynasty = 500100
+	culture = costanordi
+	religion = catholic
+	1740.1.1 = {
+		birth = yes
+	}
+	1820.8.5 = {
+		death = yes
+	}
+}
+500106 = {
+	name = Alex
+	dynasty = 500100
+	culture = costanordi
+	religion = catholic
+	2105.7.22 = {
+		birth = yes
+	}
+	2185.8.5 = {
+		death = yes
+	}
+}
+
+# Merkkantia House
+# QD
+501105 = {
+	name = Luigi
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	# father = none
+	1740.11.27 = {
+		birth = yes
+	}
+	1803.9.19 = {
+		death = yes
+	}
+}
+
+501106 = {
+	name = Vittore
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501105
+	1769.10.7 = {
+		birth = yes
+	}
+	1845.9.3 = {
+		death = yes
+	}
+}
+
+501107 = {
+	name = Raul
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501106
+	1799.5.11 = {
+		birth = yes
+	}
+	1866.7.2 = {
+		death = yes
+	}
+}
+
+501108 = {
+	name = Beniamino
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501107
+	1834.11.14 = {
+		birth = yes
+	}
+	1874.10.1 = {
+		death = yes
+	}
+}
+
+501109 = {
+	name = Claudio
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501108
+	1862.5.15 = {
+		birth = yes
+	}
+	1936.10.27 = {
+		death = yes
+	}
+}
+
+501110 = {
+	name = Callisto
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501109
+	1898.8.12 = {
+		birth = yes
+	}
+	1960.9.10 = {
+		death = yes
+	}
+}
+
+501111 = {
+	name = Celio
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501110
+	1920.11.29 = {
+		birth = yes
+	}
+	1997.8.18 = {
+		death = yes
+	}
+}
+
+501112 = {
+	name = Silvano
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501111
+	1947.7.5 = {
+		birth = yes
+	}
+	2010.6.17 = {
+		death = yes
+	}
+}
+
+501113 = {
+	name = Ampelio
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501112
+	1970.9.10 = {
+		birth = yes
+	}
+	2020.6.28 = {
+		death = yes
+	}
+}
+
+501114 = {
+	name = Iacopo
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501113
+	2003.7.15 = {
+		birth = yes
+	}
+	2054.1.25 = {
+		death = yes
+	}
+}
+
+501115 = {
+	name = Natanaele
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501114
+	2038.7.17 = {
+		birth = yes
+	}
+	2120.7.22 = {
+		death = yes
+	}
+}
+
+501116 = {
+	name = Ennio
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501115
+	2075.7.21 = {
+		birth = yes
+	}
+	2134.7.23 = {
+		death = yes
+	}
+}
+
+501117 = {
+	name = Beniamino
+	dynasty = 501100
+	culture = merkkantini
+	religion = catholic
+	father = 501116
+	2105.10.15 = {
+		birth = yes
+	}
+	2146.9.9 = {
+		death = yes
+	}
+}
+
+# Merkkantia House
+501205 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	# father = none
+	1766.6.25 = {
+		birth = yes
+	}
+	1848.11.17 = {
+		death = yes
+	}
+}
+
+501206 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501205
+	1803.11.29 = {
+		birth = yes
+	}
+	1845.3.17 = {
+		death = yes
+	}
+}
+
+501207 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501206
+	1834.5.9 = {
+		birth = yes
+	}
+	1906.4.19 = {
+		death = yes
+	}
+}
+
+501208 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501207
+	1858.9.1 = {
+		birth = yes
+	}
+	1939.5.11 = {
+		death = yes
+	}
+}
+
+501209 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501208
+	1895.4.9 = {
+		birth = yes
+	}
+	1966.3.27 = {
+		death = yes
+	}
+}
+
+501210 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501209
+	1920.8.7 = {
+		birth = yes
+	}
+	1961.4.4 = {
+		death = yes
+	}
+}
+
+501211 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501210
+	1949.12.22 = {
+		birth = yes
+	}
+	1999.11.24 = {
+		death = yes
+	}
+}
+
+501212 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501211
+	1977.4.8 = {
+		birth = yes
+	}
+	2049.1.15 = {
+		death = yes
+	}
+}
+
+501213 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501212
+	2010.3.24 = {
+		birth = yes
+	}
+	2059.3.22 = {
+		death = yes
+	}
+}
+
+501214 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501213
+	2032.10.16 = {
+		birth = yes
+	}
+	2086.9.28 = {
+		death = yes
+	}
+}
+
+501215 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501214
+	2066.2.1 = {
+		birth = yes
+	}
+	2121.5.22 = {
+		death = yes
+	}
+}
+
+501216 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501215
+	2094.11.16 = {
+		birth = yes
+	}
+	2155.10.15 = {
+		death = yes
+	}
+}
+
+501217 = {
+	name = Wipper
+	dynasty = 501200
+	culture = merkkantini
+	religion = catholic
+	father = 501216
+	2117.3.17 = {
+		birth = yes
+	}
+	2179.8.19 = {
+		death = yes
+	}
+}

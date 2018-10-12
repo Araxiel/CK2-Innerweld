@@ -1,9 +1,0 @@
-mild_winter = {
-
-}
-normal_winter = {
-  1
-}
-severe_winter = {
-
-}

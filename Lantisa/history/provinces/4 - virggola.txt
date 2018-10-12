@@ -1,0 +1,20 @@
+# County Title
+title = c_virggola
+
+# Settlements
+max_settlements = 5
+b_virggola = castle
+b_strikkania = city
+b_crecchio = temple
+
+# Misc
+culture = costanordi
+religion = catholic
+
+#b_virggola
+#b_strikkania
+#b_crecchio
+#b_alguer
+#b_colugna
+
+1950.5.10 = { b_alguer = city }

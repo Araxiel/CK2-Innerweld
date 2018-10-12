@@ -1,0 +1,10 @@
+# County Title
+title = c_stratsa
+
+# Settlements
+max_settlements = 2
+b_stratsan = tribal
+
+# Misc
+culture = costanordi
+religion = catholic

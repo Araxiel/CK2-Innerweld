@@ -1,0 +1,21 @@
+bm_era_of_strive_1776 = {
+	name = "BM_STRIVE"
+    desc = "BM_STRIVE_DESC"
+    date = 1776.6.7
+
+	era = yes	## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+
+}
+
+bm_era_of_empires_2135 = {
+	name = "BM_EMPIRES"
+    desc = "BM_EMPIRES_DESC"
+    date = 2135.2.20
+
+	era = yes	## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+
+	custom_start = yes
+
+}

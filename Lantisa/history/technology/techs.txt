@@ -1,0 +1,26 @@
+# Costanorda
+
+technology = {
+	titles = {
+		d_merkkantia
+		d_virggola
+	}
+	1776 = {
+		military = 0.75
+		economy = 1.0
+		culture = 1.0
+
+		TECH_LIGHT_INFANTRY = 1
+	}
+
+	2135 = {
+
+		military = 5.0
+		economy = 5.5
+		culture = 5.0
+
+		TECH_TRADE_PRACTICES = 6.0
+		TECH_FORTIFICATIONS_CONSTRUCTION = 6.0
+		TECH_CASTLE_CONSTRUCTION = 6.0
+	}
+}

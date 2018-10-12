@@ -1,0 +1,10 @@
+# County Title
+title = c_tistoveste
+
+# Settlements
+max_settlements = 2
+b_ceregnano = tribal
+
+# Misc
+culture = costanordi
+religion = catholic

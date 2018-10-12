@@ -1,0 +1,24 @@
+### Current Year:
+### 							656.2.20
+
+700101 = {
+	## Protagonist Emperor
+	name = Rudolf
+	dynasty = 700100
+	#culture = isenfolk
+	culture = german
+	religion = catholic
+	#stats
+	martial = 8
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	add_trait = "ambitious"
+	# time
+	2106.6.7 = {
+		birth = yes
+	}
+	2141.3.21 = {
+		death = yes
+	}
+}
