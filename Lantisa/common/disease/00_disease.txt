@@ -2,6 +2,8 @@
 # note the "rip = yes" -- this will make it so that the disease is The Reaper's Due exclusive, so that we can have both versions of the disease
 # if "rip" is not specified, the disease will be available in both version (with the same values in both) and doesn't need to be set twice
 
+# Audax Validator "!" Ignore_ALL
+
 tuberculosis = { # Consumption
 	rip = yes
 	contagiousness = 0.25
@@ -72,7 +74,6 @@ tuberculosis = { # Consumption
 					has_character_flag = got_tuberculosis
 					trait = has_tuberculosis
 					trait = horse
-					trait = cat
 
 					has_character_flag = got_bubonic_plague
 					has_character_flag = got_aztec_disease
@@ -133,8 +134,8 @@ tuberculosis = { # Consumption
 	color = { 84 171 176 }
 
 	timeperiod = { # Minor Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.011
 
@@ -158,8 +159,8 @@ tuberculosis = { # Consumption
 	}
 
 	timeperiod = { # Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1	
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.008
 
@@ -172,8 +173,8 @@ tuberculosis = { # Consumption
 	}
 
 	timeperiod = { # 'More' Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.005
 
@@ -193,8 +194,8 @@ tuberculosis = { # Consumption
 	}
 
 	timeperiod = { # Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.001
 
@@ -218,8 +219,8 @@ tuberculosis = { # Consumption
 	}
 
 	timeperiod = { # 'More' Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.002
 
@@ -312,7 +313,6 @@ typhoid_fever = { # Slow Fever
 					has_character_flag = got_typhoid_fever
 					trait = has_typhoid_fever
 					trait = horse
-					trait = cat
 
 					has_character_flag = got_bubonic_plague
 					has_character_flag = got_aztec_disease
@@ -373,8 +373,8 @@ typhoid_fever = { # Slow Fever
 	color = { 77 140 107 }
 
 	timeperiod = { # Minor Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.011
 
@@ -398,8 +398,8 @@ typhoid_fever = { # Slow Fever
 	}
 
 	timeperiod = { # Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.008
 
@@ -412,8 +412,8 @@ typhoid_fever = { # Slow Fever
 	}
 
 	timeperiod = { # 'More' Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.005
 
@@ -433,8 +433,8 @@ typhoid_fever = { # Slow Fever
 	}
 
 	timeperiod = { # Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.001
 
@@ -458,8 +458,8 @@ typhoid_fever = { # Slow Fever
 	}
 
 	timeperiod = { # 'More' Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.002
 
@@ -552,7 +552,6 @@ typhus = { # Camp Fever
 					has_character_flag = got_typhus
 					trait = has_typhus
 					trait = horse
-					trait = cat
 
 					has_character_flag = got_bubonic_plague
 					has_character_flag = got_aztec_disease
@@ -613,8 +612,8 @@ typhus = { # Camp Fever
 	color = { 161 191 42 }
 
 	timeperiod = { # Minor Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.011
 
@@ -638,8 +637,8 @@ typhus = { # Camp Fever
 	}
 
 	timeperiod = { # Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.008
 
@@ -652,8 +651,8 @@ typhus = { # Camp Fever
 	}
 
 	timeperiod = { # 'More' Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.005
 
@@ -673,8 +672,8 @@ typhus = { # Camp Fever
 	}
 
 	timeperiod = { # Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.001
 
@@ -698,8 +697,8 @@ typhus = { # Camp Fever
 	}
 
 	timeperiod = { # 'More' Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.002
 
@@ -791,7 +790,6 @@ bubonic_plague = {
 					has_character_flag = got_bubonic_plague
 					trait = has_bubonic_plague
 					trait = horse
-					trait = cat
 				}
 			}
 			random_list = {
@@ -851,9 +849,11 @@ bubonic_plague = {
 		}
 	}
 	on_province_infection = {
-		province_event = { id = RIP.10000 }
-		province_event = { id = RIP.10005 }
-		province_event = { id = RIP.11703 } #prosperity ended by epidemic
+		province_event = {
+			id = RIP.10000
+			id = RIP.10005
+			id = RIP.11703 #prosperity ended by epidemic
+		}
 	}
 	always_get_message = yes
 	color = { 255 0 0 }
@@ -862,8 +862,6 @@ bubonic_plague = {
 	timeperiod = {	# Dynamic plague outbreak
 		start_date = 760.1.1
 		end_date = 1400.1.1
-
-		months = 0
 
 		outbreak_chance = 0.01
 
@@ -883,83 +881,12 @@ bubonic_plague = {
 
 		province_infection_duration = 36
 
-		outbreak_scenario = { # Classic plague, misses India and respects the HPFZ
-			chance = 0.30
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan custom_historical_plague_free_zone world_himalayas
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses India but does not respect the HPFZ
-			chance = 0.20
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan world_himalayas
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses Africa rather than India and respects the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_africa custom_historical_plague_free_zone
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses Africa rather than India but does not respect the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_africa
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses Scandinavia and respects the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_europe_north custom_historical_plague_free_zone
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses Britain
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_europe_west_brittania
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses the Steppe and Himalaya
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_steppe world_himalayas
-			}
-		}
 
 	}
 
 	timeperiod = {	# Dynamic plague outbreak, take 2 (late game)
 		start_date = 1269.1.1
 		end_date = 1453.1.1
-
-		months = 0
 
 		outbreak_chance = 0.01
 
@@ -978,83 +905,12 @@ bubonic_plague = {
 
 		province_infection_duration = 36
 
-		outbreak_scenario = { # Classic plague, misses India and respects the HPFZ
-			chance = 0.30
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan custom_historical_plague_free_zone world_himalayas
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses India but does not respect the HPFZ
-			chance = 0.20
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan world_himalayas
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses Africa rather than India and respects the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_africa custom_historical_plague_free_zone
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses Africa rather than India but does not respect the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_africa
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses Scandinavia and respects the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_europe_north custom_historical_plague_free_zone
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses Britain
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_europe_west_brittania
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses the Steppe and Himalaya
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_steppe world_himalayas
-			}
-		}
 
 	}
 
 	timeperiod = {	# Delayed Dynamic plague outbreak
 		start_date = 1100.1.1
 		end_date = 1400.1.1
-
-		months = 0
 
 		outbreak_chance = 0.01
 
@@ -1074,83 +930,11 @@ bubonic_plague = {
 
 		province_infection_duration = 36
 
-		outbreak_scenario = { # Classic plague, misses India and respects the HPFZ
-			chance = 0.30
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan custom_historical_plague_free_zone world_himalayas
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses India but does not respect the HPFZ
-			chance = 0.20
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan world_himalayas
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses Africa rather than India and respects the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_africa custom_historical_plague_free_zone
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses Africa rather than India but does not respect the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_africa
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses Scandinavia and respects the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_europe_north custom_historical_plague_free_zone
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses Britain
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_europe_west_brittania
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses the Steppe and Himalaya
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_steppe world_himalayas
-			}
-		}
-
 	}
 
 	timeperiod = {	# Dynamic historical plague
 		start_date = 1300.1.1
 		end_date = 1400.1.1
-
-		months = 0
 
 		can_outbreak = {
 			NOT = { has_global_flag = black_death_happened }
@@ -1165,82 +949,11 @@ bubonic_plague = {
 
 		one_only = yes
 
-		outbreak_scenario = { # Classic plague, misses India and respects the HPFZ
-			chance = 0.30
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan custom_historical_plague_free_zone world_himalayas
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses India but does not respect the HPFZ
-			chance = 0.20
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan world_himalayas
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses Africa rather than India and respects the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_africa custom_historical_plague_free_zone
-			}
-		}
-
-		outbreak_scenario = { # Classic plague, misses Africa rather than India but does not respect the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_africa
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses Scandinavia and respects the HPFZ
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_europe_north custom_historical_plague_free_zone
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses Britain
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_europe_west_brittania
-			}
-		}
-
-		outbreak_scenario = { # Comes via India and misses the Steppe and Himalaya
-			chance = 0.10
-			start_provinces = {
-				1177
-			}
-			excluded_regions = {
-				world_steppe world_himalayas
-			}
-		}
 	}
 
 	timeperiod = {	# Purely historical plague
 		start_date = 1345.1.1
 		end_date = 1453.1.1
-
-		months = 0
 
 		outbreak_chance = 1
 
@@ -1257,15 +970,6 @@ bubonic_plague = {
 
 		one_only = yes
 
-		outbreak_scenario = { # Classic plague
-			chance = 1
-			start_provinces = {
-				1513
-			}
-			excluded_regions = {
-				world_india_deccan world_india_bengal world_india_rajastan custom_historical_plague_free_zone world_himalayas
-			}
-		}
 	}
 
 	timeperiod = {	# Dynamic plague - becomes endemic
@@ -1391,7 +1095,6 @@ measles = {
 					has_character_flag = got_measles
 					trait = has_measles
 					trait = horse
-					trait = cat
 
 					has_character_flag = got_bubonic_plague
 					has_character_flag = got_aztec_disease
@@ -1452,8 +1155,8 @@ measles = {
 	color = { 201 111 112 }
 
 	timeperiod = { # Minor Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.016
 
@@ -1477,8 +1180,8 @@ measles = {
 	}
 
 	timeperiod = { # Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.006
 
@@ -1491,8 +1194,8 @@ measles = {
 	}
 
 	timeperiod = { # 'More' Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.005
 
@@ -1512,8 +1215,8 @@ measles = {
 	}
 
 	timeperiod = { # Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.0008
 
@@ -1537,8 +1240,8 @@ measles = {
 	}
 
 	timeperiod = { # 'More' Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.002
 
@@ -1631,7 +1334,6 @@ small_pox = {
 					has_character_flag = got_smallpox
 					trait = has_small_pox
 					trait = horse
-					trait = cat
 
 					has_character_flag = got_bubonic_plague
 					has_character_flag = got_aztec_disease
@@ -1692,8 +1394,8 @@ small_pox = {
 	color = { 179 102 132 }
 
 	timeperiod = { # Minor Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.011
 
@@ -1717,8 +1419,8 @@ small_pox = {
 	}
 
 	timeperiod = { # Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.008
 
@@ -1731,8 +1433,8 @@ small_pox = {
 	}
 
 	timeperiod = { # 'More' Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.005
 
@@ -1752,8 +1454,8 @@ small_pox = {
 	}
 
 	timeperiod = { # Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.001
 
@@ -1777,8 +1479,8 @@ small_pox = {
 	}
 
 	timeperiod = { # 'More' Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.002
 
@@ -1871,11 +1573,10 @@ syphilis = {
 					has_character_flag = got_aztec_disease
 					trait = has_aztec_disease
 					trait = horse
-					trait = cat
 
 					has_character_flag = got_bubonic_plague
 					has_character_flag = got_smallpox
-					has_character_flag = got_measles
+					has_character_flag = got_measlessce
 					has_character_flag = got_typhus
 					has_character_flag = got_typhoid_fever
 					has_character_flag = got_tuberculosis
@@ -1934,8 +1635,8 @@ syphilis = {
 	active = no
 
 	timeperiod = { # Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.010
 
@@ -1952,8 +1653,8 @@ syphilis = {
 	}
 
 	timeperiod = { # 'More' Normal Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.005
 
@@ -1974,8 +1675,8 @@ syphilis = {
 	}
 
 	timeperiod = { # Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.001
 
@@ -2000,8 +1701,8 @@ syphilis = {
 	}
 
 	timeperiod = { # 'More' Major Outbreak
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		outbreak_chance = 0.001
 
@@ -2054,7 +1755,6 @@ dancing_plague = {
 					has_character_flag = got_dancing_plague
 					trait = dancing_plague
 					trait = horse
-					trait = cat
 					trait = incapable
 				}
 			}
@@ -2099,8 +1799,8 @@ dancing_plague = {
 	color = { 255 234 0 }
 
 	timeperiod = {
-		start_date = 1776.6.7
-		end_date = 2350.1.1
+		start_date = 200.1.1
+		end_date = 1452.1.1
 
 		can_outbreak = {
 			has_dlc = "Reapers"
