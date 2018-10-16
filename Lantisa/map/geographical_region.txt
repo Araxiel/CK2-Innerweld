@@ -14,5 +14,7 @@
 world_costenorda = {
 	duchies = {
 		d_merkkantia
+		d_meritional
+		d_virggola
 	}
 }

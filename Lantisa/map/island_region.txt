@@ -11,9 +11,5 @@
 #		E.g. If the region world_europe contains the region world_europe_west then world_europe_west needs to be declared as a region before (i.e. higher up in this file) world_europe.
 
 region_merkkantia = {
-	provinces = { 10 11 }
-}
-
-region_pikksilia = {
-	provinces = { 12 }
+	provinces = { 10 11 12 }
 }

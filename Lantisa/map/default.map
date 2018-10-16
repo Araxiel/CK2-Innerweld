@@ -1,4 +1,4 @@
-max_provinces = 34
+max_provinces = 86
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -15,16 +15,17 @@ geographical_region = "geographical_region.txt"
 static = "statics"
 seasons = "seasons.txt"
 
-# Southern Seas
-sea_zones = { 23 21 33 }
+# Göttersee
+sea_zones = { 54 55 }
 
-# Middleweld
-sea_zones = { 28 33 }
+# Southern Seas
+sea_zones = { 56 82 }
 
 # Innersea
-sea_zones = { 28 33 }
+sea_zones = { 83 85 }
 
-ocean_region = {	# Main Ocean
+# Main Ocean
+ocean_region = {
 	sea_zones = { 1 2 3 }
 }
 
