@@ -58,3 +58,83 @@
   max_settlements = 3
   terrain = plains
 }
+13 = {
+  title = c_lucente
+  max_settlements = 1
+  terrain = plains
+}
+14 = {
+  title = c_meraviglia
+  max_settlements = 1
+  terrain = plains
+}
+15 = {
+  title = c_barlezia
+  max_settlements = 1
+  terrain = plains
+}
+16 = {
+  title = c_pragetto
+  max_settlements = 1
+  terrain = plains
+}
+17 = {
+  title = c_pietrina
+  max_settlements = 1
+  terrain = plains
+}
+18 = {
+  title = c_gatti
+  max_settlements = 1
+  terrain = plains
+}
+19 = {
+  title = c_collionovastre
+  max_settlements = 1
+  terrain = plains
+}
+20 = {
+  title = c_grandistazza
+  max_settlements = 1
+  terrain = plains
+}
+21 = {
+  title = c_argillabene
+  max_settlements = 1
+  terrain = plains
+}
+22 = {
+  title = c_beltempo
+  max_settlements = 1
+  terrain = plains
+}
+23 = {
+  title = c_minierdisale
+  max_settlements = 1
+  terrain = plains
+}
+24 = {
+  title = c_kaduteblue
+  max_settlements = 1
+  terrain = plains
+}
+25 = {
+  title = c_citsini
+  max_settlements = 1
+  terrain = plains
+}
+26 = {
+  title = c_necinta
+  max_settlements = 1
+  terrain = plains
+}
+27 = {
+  title = c_encia
+  max_settlements = 1
+  terrain = plains
+}
+28 = {
+  title = c_prasinfio
+  max_settlements = 1
+  terrain = plains
+}
