@@ -65,7 +65,7 @@ e_costenorda = {
     c_senzascogliere = {
       b_propezzano = { }
       b_dumenza = { }
-      color = { 179	222	112 }
+      color = { 179 222 112 }
       color2 = { 107 244 138 }
     }
     c_piccofiume = {
@@ -77,6 +77,86 @@ e_costenorda = {
     c_dolcicolline = {
       b_palombaio = { }
       b_sinopoli = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_lucente = {
+      b_lucente = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_meraviglia = {
+      b_meraviglia = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_barlezia = {
+      b_barlezia = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_pragetto = {
+      b_parigi = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_pietrina = {
+      b_pietrina = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_gatti = {
+      b_summaga = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_collionovastre = {
+      b_collionovastre = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_grandistazza = {
+      b_grandistazza = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_argillabene = {
+      b_argillabene = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_beltempo = {
+      b_balangero = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_minierdisale = {
+      b_minierdisale = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_kaduteblue = {
+      b_bareto = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_citsini = {
+      b_citsini = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_necinta = {
+      b_necinta = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_encia = {
+      b_cuggiono = { }
+      color = { 179	222	112 }
+      color2 = { 107 244 138 }
+    }
+    c_prasinfio = {
+      b_pescantina = { }
       color = { 179	222	112 }
       color2 = { 107 244 138 }
     }
