@@ -1,0 +1,10 @@
+# County Title
+title = c_lucente
+
+# Settlements
+max_settlements = 1
+b_lucente = castle
+
+# Misc
+culture = costanordi
+religion = catholic

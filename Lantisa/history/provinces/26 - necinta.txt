@@ -1,0 +1,10 @@
+# County Title
+title = c_necinta
+
+# Settlements
+max_settlements = 1
+b_necinta = castle
+
+# Misc
+culture = costanordi
+religion = catholic

@@ -391,3 +391,32 @@
 		death = yes
 	}
 }
+
+# Carbonara dude
+501991 = {
+	name = Wipper
+	dynasty = none
+	culture = merkkantini
+	religion = catholic
+	# father = none
+	1732.12.14 = {
+		birth = yes
+	}
+	1804.5.17 = {
+		death = yes
+	}
+}
+
+501992 = {
+	name = Wipper
+	dynasty = none
+	culture = merkkantini
+	religion = catholic
+	# father = none
+	2100.4.22 = {
+		birth = yes
+	}
+	2160.3.16 = {
+		death = yes
+	}
+}

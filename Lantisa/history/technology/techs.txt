@@ -6,21 +6,22 @@ technology = {
 		d_virggola
 	}
 	1776 = {
-		military = 0.75
-		economy = 1.0
-		culture = 1.0
+		military = 1.1
+		economy = 1.1
+		culture = 1.1
 
-		TECH_LIGHT_INFANTRY = 1
+		TECH_LIGHT_INFANTRY = 1.8
 	}
 
 	2135 = {
 
-		military = 5.0
-		economy = 5.5
-		culture = 5.0
+		military = 4.0
+		economy = 4.5
+		culture = 4.0
 
-		TECH_TRADE_PRACTICES = 6.0
-		TECH_FORTIFICATIONS_CONSTRUCTION = 6.0
-		TECH_CASTLE_CONSTRUCTION = 6.0
+		TECH_TRADE_PRACTICES = 5.0
+		TECH_FORTIFICATIONS_CONSTRUCTION = 4.0
+		TECH_CASTLE_CONSTRUCTION = 5.0
+		TECH_CITY_CONSTRUCTION = 5.0
 	}
 }

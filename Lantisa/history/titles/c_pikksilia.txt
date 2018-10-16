@@ -1,3 +1,8 @@
 1757.2.5 = {
+	holder = 501991
 	liege = d_merkkantia
+}
+
+2120.7.22 = {
+	holder = 501992
 }

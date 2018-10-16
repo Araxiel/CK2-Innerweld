@@ -1,0 +1,10 @@
+# County Title
+title = c_pragetto
+
+# Settlements
+max_settlements = 1
+b_parigi = castle
+
+# Misc
+culture = costanordi
+religion = catholic
