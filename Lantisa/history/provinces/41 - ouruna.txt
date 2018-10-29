@@ -1,0 +1,21 @@
+# 41 - Ouruna
+
+# County Title
+title = c_ouruna
+
+# Settlements
+max_settlements = 6
+b_oureledo = castle
+b_antone = city
+b_seni = temple
+
+#b_cothraia
+#b_ugias
+#b_leso
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

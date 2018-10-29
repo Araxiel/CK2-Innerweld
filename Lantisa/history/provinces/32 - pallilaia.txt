@@ -1,0 +1,20 @@
+# 32 - Pallilaia
+
+# County Title
+title = c_pallilaia
+
+# Settlements
+max_settlements = 5
+b_chovia = castle
+b_salasa = city
+b_averce = temple
+
+#b_logna
+#b_cera
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

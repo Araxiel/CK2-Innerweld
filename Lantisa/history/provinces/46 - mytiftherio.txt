@@ -1,0 +1,20 @@
+# 46 - Mytiftherio
+
+# County Title
+title = c_mytiftherio
+
+# Settlements
+max_settlements = 5
+b_mytiftherio = castle
+b_siena = city
+b_tania = temple
+
+#b_norco
+#b_setto
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

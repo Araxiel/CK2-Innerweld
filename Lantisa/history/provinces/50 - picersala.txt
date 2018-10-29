@@ -1,0 +1,20 @@
+# 50 - Picersala
+
+# County Title
+title = c_picersala
+
+# Settlements
+max_settlements = 5
+b_picersala = castle
+b_taria = city
+b_guadartos = temple
+
+#b_celli
+#b_vieti
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

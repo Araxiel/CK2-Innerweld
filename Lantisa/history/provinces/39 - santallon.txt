@@ -1,0 +1,20 @@
+# 39 - Santallon
+
+# County Title
+title = c_santallon
+
+# Settlements
+max_settlements = 5
+b_teragusa = castle
+b_lana = city
+b_neza = temple
+
+#b_antorcia
+#b_luccia
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

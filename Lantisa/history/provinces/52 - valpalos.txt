@@ -1,0 +1,20 @@
+# 52 - Valpalos
+
+# County Title
+title = c_valpalos
+
+# Settlements
+max_settlements = 5
+b_valpalos = castle
+b_nissa = city
+b_trossa = temple
+
+#b_genta
+#b_macia
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

@@ -1,0 +1,21 @@
+# 53 - Gafaja
+
+# County Title
+title = c_gafaja
+
+# Settlements
+max_settlements = 6
+b_thessazi = castle
+b_sena = city
+b_cero = temple
+
+#b_enzas
+#b_veri
+#b_molforl
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

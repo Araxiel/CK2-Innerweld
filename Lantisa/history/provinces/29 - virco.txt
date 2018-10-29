@@ -1,0 +1,21 @@
+# 29 - Virco
+
+# County Title
+title = c_virco
+
+# Settlements
+max_settlements = 6
+b_piamaggio = castle
+b_castelverde = city
+b_virco = temple
+
+#b_chiusaforte
+#b_ipplis
+#b_pescomaggiore
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

@@ -1,18 +1,20 @@
+# 11 - Merkkani
+
 # County Title
 title = c_merkkani
 
 # Settlements
 max_settlements = 5
-b_merkkani = city
-b_carzeto = castle
+b_merkkani = castle
+b_carzeto = city
 b_cagliari = temple
 
-#b_merkkani
-#b_carzeto
-#b_cagliari
 #b_resina
 #b_piasco
 
 # Misc
-culture = merkkantini
-religion = catholic
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

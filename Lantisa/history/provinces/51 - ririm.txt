@@ -1,0 +1,19 @@
+# 51 - Ririm
+
+# County Title
+title = c_ririm
+
+# Settlements
+max_settlements = 4
+b_ririm = castle
+b_toria = city
+b_pali = temple
+
+#b_pante
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

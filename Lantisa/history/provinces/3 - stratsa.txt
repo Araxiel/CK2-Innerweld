@@ -1,10 +1,20 @@
+# 3 - Stratsa
+
 # County Title
 title = c_stratsa
 
 # Settlements
-max_settlements = 2
-b_stratsan = tribal
+max_settlements = 5
+b_stratsan = castle
+b_ravkala = city
+b_siracusa = temple
+
+#b_pietraroia
+#b_gaiba
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

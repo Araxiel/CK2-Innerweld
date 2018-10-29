@@ -1,140 +1,265 @@
 1 = {
-  title = c_ramevi
-  max_settlements = 2
-  terrain = plains
+    title = c_ramevi
+    max_settlements = 6
+    terrain = plains
 }
 2 = {
-  title = c_tisto
-  max_settlements = 2
-  terrain = plains
+    title = c_tisto
+    max_settlements = 6
+    terrain = plains
 }
 3 = {
-  title = c_stratsa
-  max_settlements = 2
-  terrain = plains
+    title = c_stratsa
+    max_settlements = 5
+    terrain = plains
 }
 4 = {
-  title = c_virggola
-  max_settlements = 5
-  terrain = plains
+    title = c_virggola
+    max_settlements = 5
+    terrain = plains
 }
 5 = {
-  title = c_sottosopral
-  max_settlements = 2
-  terrain = plains
+    title = c_sottosopral
+    max_settlements = 6
+    terrain = plains
 }
 6 = {
-  title = c_senzascogliere
-  max_settlements = 2
-  terrain = plains
+    title = c_senzascogliere
+    max_settlements = 5
+    terrain = plains
 }
 7 = {
-  title = c_piccofiume
-  max_settlements = 2
-  terrain = plains
+    title = c_piccofiume
+    max_settlements = 5
+    terrain = plains
 }
 8 = {
-  title = c_tistoveste
-  max_settlements = 2
-  terrain = plains
+    title = c_tistoveste
+    max_settlements = 5
+    terrain = plains
 }
 9 = {
-  title = c_dolcicolline
-  max_settlements = 2
-  terrain = plains
+    title = c_dolcicolline
+    max_settlements = 5
+    terrain = plains
 }
 10 = {
-  title = c_merkkantia
-  max_settlements = 6
-  terrain = plains
+    title = c_merkkantia
+    max_settlements = 6
+    terrain = plains
 }
 11 = {
-  title = c_merkkani
-  max_settlements = 5
-  terrain = plains
+    title = c_merkkani
+    max_settlements = 5
+    terrain = plains
 }
 12 = {
-  title = c_pikksilia
-  max_settlements = 3
-  terrain = plains
+    title = c_pikksilia
+    max_settlements = 5
+    terrain = plains
 }
 13 = {
-  title = c_lucente
-  max_settlements = 1
-  terrain = plains
+    title = c_lucente
+    max_settlements = 5
+    terrain = plains
 }
 14 = {
-  title = c_meraviglia
-  max_settlements = 1
-  terrain = plains
+    title = c_meraviglia
+    max_settlements = 5
+    terrain = plains
 }
 15 = {
-  title = c_barlezia
-  max_settlements = 1
-  terrain = plains
+    title = c_barlezia
+    max_settlements = 6
+    terrain = plains
 }
 16 = {
-  title = c_pragetto
-  max_settlements = 1
-  terrain = plains
+    title = c_pragetto
+    max_settlements = 5
+    terrain = plains
 }
 17 = {
-  title = c_pietrina
-  max_settlements = 1
-  terrain = plains
+    title = c_pietrina
+    max_settlements = 5
+    terrain = plains
 }
 18 = {
-  title = c_gatti
-  max_settlements = 1
-  terrain = plains
+    title = c_gatti
+    max_settlements = 4
+    terrain = plains
 }
 19 = {
-  title = c_collionovastre
-  max_settlements = 1
-  terrain = plains
+    title = c_collionovastre
+    max_settlements = 6
+    terrain = plains
 }
 20 = {
-  title = c_grandistazza
-  max_settlements = 1
-  terrain = plains
+    title = c_grandistazza
+    max_settlements = 5
+    terrain = plains
 }
 21 = {
-  title = c_argillabene
-  max_settlements = 1
-  terrain = plains
+    title = c_argillabene
+    max_settlements = 5
+    terrain = plains
 }
 22 = {
-  title = c_beltempo
-  max_settlements = 1
-  terrain = plains
+    title = c_beltempo
+    max_settlements = 5
+    terrain = plains
 }
 23 = {
-  title = c_minierdisale
-  max_settlements = 1
-  terrain = plains
+    title = c_minierdisale
+    max_settlements = 6
+    terrain = plains
 }
 24 = {
-  title = c_kaduteblue
-  max_settlements = 1
-  terrain = plains
+    title = c_kaduteblue
+    max_settlements = 5
+    terrain = plains
 }
 25 = {
-  title = c_citsini
-  max_settlements = 1
-  terrain = plains
+    title = c_citsini
+    max_settlements = 5
+    terrain = plains
 }
 26 = {
-  title = c_necinta
-  max_settlements = 1
-  terrain = plains
+    title = c_necinta
+    max_settlements = 5
+    terrain = plains
 }
 27 = {
-  title = c_encia
-  max_settlements = 1
-  terrain = plains
+    title = c_encia
+    max_settlements = 5
+    terrain = plains
 }
 28 = {
-  title = c_prasinfio
-  max_settlements = 1
-  terrain = plains
+    title = c_prasinfio
+    max_settlements = 7
+    terrain = plains
+}
+29 = {
+    title = c_virco
+    max_settlements = 6
+    terrain = plains
+}
+30 = {
+    title = c_kamaktos
+    max_settlements = 5
+    terrain = plains
+}
+31 = {
+    title = c_kozalion
+    max_settlements = 5
+    terrain = plains
+}
+32 = {
+    title = c_pallilaia
+    max_settlements = 5
+    terrain = plains
+}
+33 = {
+    title = c_porderaele
+    max_settlements = 5
+    terrain = plains
+}
+34 = {
+    title = c_gerin
+    max_settlements = 6
+    terrain = plains
+}
+35 = {
+    title = c_sanredonia
+    max_settlements = 5
+    terrain = plains
+}
+36 = {
+    title = c_lilongo
+    max_settlements = 5
+    terrain = plains
+}
+37 = {
+    title = c_vacer
+    max_settlements = 6
+    terrain = plains
+}
+38 = {
+    title = c_valovira
+    max_settlements = 5
+    terrain = plains
+}
+39 = {
+    title = c_santallon
+    max_settlements = 5
+    terrain = plains
+}
+40 = {
+    title = c_cales
+    max_settlements = 6
+    terrain = plains
+}
+41 = {
+    title = c_ouruna
+    max_settlements = 6
+    terrain = plains
+}
+42 = {
+    title = c_toganes
+    max_settlements = 6
+    terrain = plains
+}
+43 = {
+    title = c_mules
+    max_settlements = 5
+    terrain = plains
+}
+44 = {
+    title = c_pietra
+    max_settlements = 5
+    terrain = plains
+}
+45 = {
+    title = c_draka
+    max_settlements = 5
+    terrain = plains
+}
+46 = {
+    title = c_mytiftherio
+    max_settlements = 5
+    terrain = plains
+}
+47 = {
+    title = c_stalcis
+    max_settlements = 7
+    terrain = plains
+}
+48 = {
+    title = c_vavigo
+    max_settlements = 6
+    terrain = plains
+}
+49 = {
+    title = c_sassassina
+    max_settlements = 5
+    terrain = plains
+}
+50 = {
+    title = c_picersala
+    max_settlements = 5
+    terrain = plains
+}
+51 = {
+    title = c_ririm
+    max_settlements = 4
+    terrain = plains
+}
+52 = {
+    title = c_valpalos
+    max_settlements = 5
+    terrain = plains
+}
+53 = {
+    title = c_gafaja
+    max_settlements = 6
+    terrain = plains
 }

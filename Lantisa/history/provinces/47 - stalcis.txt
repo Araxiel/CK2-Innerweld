@@ -1,0 +1,22 @@
+# 47 - Stalcis
+
+# County Title
+title = c_stalcis
+
+# Settlements
+max_settlements = 7
+b_stalcis = castle
+b_coni = city
+b_taneo = temple
+
+#b_gento
+#b_caso
+#b_astori
+#b_mazaci
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

@@ -1,0 +1,997 @@
+# Generated
+86540 = {
+    name = "Marsiglio"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    1582.7.17 = {
+        birth = yes
+    }
+    1600.4.12 = {
+        add_spouse = 86541
+    }
+    1633.7.9 = {
+        death = yes
+    }
+}
+
+86541 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    dynasty = 756
+    1584.9.29 = {
+        birth = yes
+        effect = { dynasty = 0 }
+    }
+    1600.4.12 = {
+        add_spouse = 86540
+    }
+    1630.3.11 = {
+        death = yes
+    }
+}
+
+86542 = {
+    name = "Lionel"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86540
+    mother = 86541
+    1621.9.7 = {
+        birth = yes
+    }
+    1631.5.10 = {
+        add_spouse = 86545
+    }
+    1675.5.23 = {
+        death = yes
+    }
+}
+
+86543 = {
+    name = "Guidone"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86540
+    mother = 86541
+    1635.9.28 = {
+        birth = yes
+    }
+    1665.3.16 = {
+        death = yes
+    }
+}
+
+86544 = {
+    name = "Vincentello"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86542
+    1645.7.13 = {
+        birth = yes
+    }
+    1683.2.27 = {
+        death = yes
+    }
+}
+
+86545 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1596.7.20 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1631.5.10 = {
+        add_spouse = 86542
+    }
+    1640.11.20 = {
+        death = yes
+    }
+}
+
+86546 = {
+    name = "Adelmo"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86542
+    mother = 86545
+    1678.9.19 = {
+        birth = yes
+    }
+    1699.9.24 = {
+        add_spouse = 86551
+    }
+    1707.8.16 = {
+        death = yes
+    }
+}
+
+86547 = {
+    name = "Ciro"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86542
+    mother = 86545
+    1736.1.29 = {
+        birth = yes
+    }
+    1781.1.24 = {
+        death = yes
+    }
+}
+
+86548 = {
+    name = "Lucio"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86542
+    mother = 86545
+    1771.1.14 = {
+        birth = yes
+    }
+    1830.8.9 = {
+        death = yes
+    }
+}
+
+86549 = {
+    name = "Camillus"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86544
+    1669.12.29 = {
+        birth = yes
+    }
+    1734.6.2 = {
+        death = yes
+    }
+}
+
+86550 = {
+    name = "Gerard"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86542
+    mother = 86545
+    female = yes
+    1823.2.15 = {
+        birth = yes
+    }
+    1828.6.25 = {
+        death = yes
+    }
+}
+
+86551 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1677.8.8 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1699.9.24 = {
+        add_spouse = 86546
+    }
+    1700.12.13 = {
+        death = yes
+    }
+}
+
+86552 = {
+    name = "Alighiero"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86546
+    mother = 86551
+    1701.5.27 = {
+        birth = yes
+    }
+    1726.11.22 = {
+        add_spouse = 86555
+    }
+    1732.6.23 = {
+        death = yes
+    }
+}
+
+86553 = {
+    name = "Thomas"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86552
+    1732.7.20 = {
+        birth = yes
+    }
+    1783.8.12 = {
+        death = yes
+    }
+}
+
+86554 = {
+    name = "Tibaldo"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86546
+    mother = 86551
+    female = yes
+    1713.5.20 = {
+        birth = yes
+    }
+    1761.9.17 = {
+        death = yes
+    }
+}
+
+86555 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1711.4.21 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1726.11.22 = {
+        add_spouse = 86552
+    }
+    1789.2.4 = {
+        death = yes
+    }
+}
+
+86556 = {
+    name = "Gelasio"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86552
+    mother = 86555
+    1759.3.14 = {
+        birth = yes
+    }
+    1781.2.19 = {
+        add_spouse = 86560
+    }
+    1798.10.22 = {
+        death = yes
+    }
+}
+
+86557 = {
+    name = "Camillo"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86552
+    mother = 86555
+    1773.10.6 = {
+        birth = yes
+    }
+    1802.7.29 = {
+        death = yes
+    }
+}
+
+86558 = {
+    name = "Bonaventura"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86552
+    mother = 86555
+    1782.12.12 = {
+        birth = yes
+    }
+    1828.8.17 = {
+        death = yes
+    }
+}
+
+86559 = {
+    name = "Fausto"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86557
+    1796.2.27 = {
+        birth = yes
+    }
+    1865.6.1 = {
+        death = yes
+    }
+}
+
+86560 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1765.5.28 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1781.2.19 = {
+        add_spouse = 86556
+    }
+    1790.7.19 = {
+        death = yes
+    }
+}
+
+86561 = {
+    name = "Nicholas"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86556
+    1776.1.6 = {
+        birth = yes
+    }
+    1797.8.5 = {
+        add_spouse = 86567
+    }
+    1801.6.8 = {
+        death = yes
+    }
+}
+
+86562 = {
+    name = "Callisto"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86556
+    mother = 86560
+    1787.8.20 = {
+        birth = yes
+    }
+    1840.6.14 = {
+        death = yes
+    }
+}
+
+86563 = {
+    name = "Lamberto"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86556
+    mother = 86560
+    1801.2.26 = {
+        birth = yes
+    }
+    1866.8.17 = {
+        death = yes
+    }
+}
+
+86564 = {
+    name = "Cataldo"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86563
+    1839.12.25 = {
+        birth = yes
+    }
+    1845.6.14 = {
+        death = yes
+    }
+}
+
+86565 = {
+    name = "Alamanno"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86556
+    mother = 86560
+    female = yes
+    1839.6.17 = {
+        birth = yes
+    }
+    1868.2.10 = {
+        death = yes
+    }
+}
+
+86566 = {
+    name = "Giordano"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86556
+    mother = 86560
+    female = yes
+    1873.5.27 = {
+        birth = yes
+    }
+    1917.4.11 = {
+        death = yes
+    }
+}
+
+86567 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1778.6.4 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1797.8.5 = {
+        add_spouse = 86561
+    }
+    1821.8.22 = {
+        death = yes
+    }
+}
+
+86568 = {
+    name = "Vitale"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86561
+    1794.2.24 = {
+        birth = yes
+    }
+    1807.11.13 = {
+        add_spouse = 86572
+    }
+    1834.1.14 = {
+        death = yes
+    }
+}
+
+86569 = {
+    name = "Bassiano"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86561
+    mother = 86567
+    1822.12.17 = {
+        birth = yes
+    }
+    1872.7.16 = {
+        death = yes
+    }
+}
+
+86570 = {
+    name = "Davide"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86569
+    1867.8.30 = {
+        birth = yes
+    }
+    1943.4.28 = {
+        death = yes
+    }
+}
+
+86571 = {
+    name = "Arcibaldo"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86561
+    mother = 86567
+    female = yes
+    1833.8.16 = {
+        birth = yes
+    }
+    1876.1.28 = {
+        death = yes
+    }
+}
+
+86572 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1778.11.25 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1807.11.13 = {
+        add_spouse = 86568
+    }
+    1809.11.8 = {
+        death = yes
+    }
+}
+
+86573 = {
+    name = "Spinetto"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86568
+    mother = 86572
+    1818.5.24 = {
+        birth = yes
+    }
+    1843.9.4 = {
+        add_spouse = 86576
+    }
+    1848.9.3 = {
+        death = yes
+    }
+}
+
+86574 = {
+    name = "Gilbert"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86568
+    mother = 86572
+    1828.2.20 = {
+        birth = yes
+    }
+    1884.7.28 = {
+        death = yes
+    }
+}
+
+86575 = {
+    name = "Bernardo"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86573
+    1842.1.27 = {
+        birth = yes
+    }
+    1883.4.11 = {
+        death = yes
+    }
+}
+
+86576 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1818.4.13 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1843.9.4 = {
+        add_spouse = 86573
+    }
+    1865.3.19 = {
+        death = yes
+    }
+}
+
+86577 = {
+    name = "Buoso"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86573
+    mother = 86576
+    1850.9.8 = {
+        birth = yes
+    }
+    1868.5.28 = {
+        add_spouse = 86581
+    }
+    1903.5.22 = {
+        death = yes
+    }
+}
+
+86578 = {
+    name = "Callistus"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86573
+    mother = 86576
+    1869.6.19 = {
+        birth = yes
+    }
+    1917.1.21 = {
+        death = yes
+    }
+}
+
+86579 = {
+    name = "Dioniso"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86573
+    mother = 86576
+    1874.10.2 = {
+        birth = yes
+    }
+    1902.1.3 = {
+        death = yes
+    }
+}
+
+86580 = {
+    name = "Demetrius"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86577
+    1888.8.11 = {
+        birth = yes
+    }
+    1933.11.2 = {
+        death = yes
+    }
+}
+
+86581 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1847.1.22 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1868.5.28 = {
+        add_spouse = 86577
+    }
+    1923.3.11 = {
+        death = yes
+    }
+}
+
+86582 = {
+    name = "Bassiano"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86577
+    mother = 86581
+    1933.1.23 = {
+        birth = yes
+    }
+    1952.1.6 = {
+        add_spouse = 86585
+    }
+    1970.9.13 = {
+        death = yes
+    }
+}
+
+86583 = {
+    name = "Frederick"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86577
+    mother = 86581
+    1942.2.8 = {
+        birth = yes
+    }
+    1979.11.8 = {
+        death = yes
+    }
+}
+
+86584 = {
+    name = "Gualtiero"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86582
+    1954.11.3 = {
+        birth = yes
+    }
+    1955.10.21 = {
+        death = yes
+    }
+}
+
+86585 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1936.9.15 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1952.1.6 = {
+        add_spouse = 86582
+    }
+    1974.6.4 = {
+        death = yes
+    }
+}
+
+86586 = {
+    name = "Davide"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86582
+    mother = 86585
+    1983.7.14 = {
+        birth = yes
+    }
+    1994.1.19 = {
+        add_spouse = 86590
+    }
+    2030.1.12 = {
+        death = yes
+    }
+}
+
+86587 = {
+    name = "Godfrey"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86582
+    mother = 86585
+    2003.9.17 = {
+        birth = yes
+    }
+    2076.7.29 = {
+        death = yes
+    }
+}
+
+86588 = {
+    name = "Matthew"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86584
+    1973.12.26 = {
+        birth = yes
+    }
+    2013.3.23 = {
+        death = yes
+    }
+}
+
+86589 = {
+    name = "Barnaba"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86582
+    mother = 86585
+    female = yes
+    2017.4.1 = {
+        birth = yes
+    }
+    2019.8.15 = {
+        death = yes
+    }
+}
+
+86590 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    1962.9.1 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    1994.1.19 = {
+        add_spouse = 86586
+    }
+    1999.1.11 = {
+        death = yes
+    }
+}
+
+86591 = {
+    name = "Torquato"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86586
+    mother = 86590
+    2014.10.9 = {
+        birth = yes
+    }
+    2041.9.26 = {
+        add_spouse = 86595
+    }
+    2058.8.16 = {
+        death = yes
+    }
+}
+
+86592 = {
+    name = "Pio"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86591
+    2040.12.24 = {
+        birth = yes
+    }
+    2072.6.13 = {
+        death = yes
+    }
+}
+
+86593 = {
+    name = "Jacob"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86586
+    mother = 86590
+    female = yes
+    2037.4.6 = {
+        birth = yes
+    }
+    2095.5.12 = {
+        death = yes
+    }
+}
+
+86594 = {
+    name = "Luca"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86586
+    mother = 86590
+    female = yes
+    2057.10.1 = {
+        birth = yes
+    }
+    2116.1.11 = {
+        death = yes
+    }
+}
+
+86595 = {
+    name = "WOMZ"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    female = yes
+    2013.1.23 = {
+        birth = yes
+        effect= { dynasty=none }
+    }
+    2041.9.26 = {
+        add_spouse = 86591
+    }
+    2093.11.8 = {
+        death = yes
+    }
+}
+
+86596 = {
+    name = "Jordan"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86591
+    mother = 86595
+    2074.4.17 = {
+        birth = yes
+    }
+    2119.10.14 = {
+        death = yes
+    }
+}
+
+86597 = {
+    name = "Landolfo"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86591
+    mother = 86595
+    2090.12.21 = {
+        birth = yes
+    }
+    2117.11.28 = {
+        death = yes
+    }
+}
+
+86598 = {
+    name = "Antoninus"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86591
+    mother = 86595
+    2096.7.23 = {
+        birth = yes
+    }
+    2163.9.13 = {
+        death = yes
+    }
+}
+
+86599 = {
+    name = "Landolfo"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86597
+    2107.10.25 = {
+        birth = yes
+    }
+    2132.10.20 = {
+        death = yes
+    }
+}
+
+86600 = {
+    name = "Eugenio"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86591
+    mother = 86595
+    female = yes
+    2133.9.8 = {
+        birth = yes
+    }
+    2190.6.1 = {
+        death = yes
+    }
+}
+
+86601 = {
+    name = "Castore"
+    dynasty = 55010
+    culture = "costanordi"
+    religion = "great_gods"
+    father = 86591
+    mother = 86595
+    female = yes
+    2159.3.4 = {
+        birth = yes
+    }
+    2206.9.2 = {
+        death = yes
+    }
+}

@@ -1,10 +1,21 @@
+# 19 - Collionovastre
+
 # County Title
 title = c_collionovastre
 
 # Settlements
-max_settlements = 1
+max_settlements = 6
 b_collionovastre = castle
+b_luras = city
+b_inglagna = temple
+
+#b_carbonare
+#b_bosaro
+#b_presenaio
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

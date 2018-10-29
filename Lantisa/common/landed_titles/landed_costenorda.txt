@@ -1,0 +1,536 @@
+e_costenorda = {
+  capital = 1
+  color = { 253	173	0 }
+  color2 = { 253 173 0 }
+  culture = costanordi
+  k_meritionalis = {
+    capital = 1
+    color = { 253	173	0 } # rgb(250, 204, 6)
+    color2 = { 253 173 0 }
+    culture = costanordi
+    d_meritional = {
+      capital = 1
+      color = { 253	173	0 }
+      color2 = { 253 173 0 }
+      culture = costanordi
+      #1
+      c_ramevi = {
+          b_wevi = { }
+          b_balagmo = { }
+          b_calatafimi = { }
+          b_medolla = { }
+          b_lagarina = { }
+          b_castana = { }
+          color = { 228 223 29 }  # rgb(228, 223, 29)
+          color2 = { 250 210 10 }
+      }
+      #2
+      c_tisto = {
+          b_silas = { }
+          b_geraldin = { }
+          b_sterpeti = { }
+          b_filettole = { }
+          b_poncarale = { }
+          b_formignana = { }
+          color = { 255 214 9 }  # rgb(255, 214, 9)
+          color2 = { 250 210 10 }
+      }
+      #8
+      c_tistoveste = {
+          b_ceregnano = { }
+          b_arzano = { }
+          b_roccaraso = { }
+          b_pietracalcina = { }
+          b_turbigo = { }
+          color = { 223 214 42 }  # rgb(223, 214, 42)
+          color2 = { 250 210 10 }
+      }
+    }
+    d_virggola = {
+      capital = 4
+      color = { 255 222 0 }
+      color2 = { 253 173 0 }
+      culture = costanordi
+      c_stratsa = {
+          b_stratsan = { }
+          b_ravkala = { }
+          b_siracusa = { }
+          b_pietraroia = { }
+          b_gaiba = { }
+          color = { 224 203 43 }  # rgb(224, 203, 43)
+          color2 = { 250 210 10 }
+      }
+      c_virggola = {
+          b_virggola = { }
+          b_strikkania = { }
+          b_crecchio = { }
+          b_alguer = { }
+          b_colugna = { }
+          color = { 208 224 20 }  # rgb(208, 224, 20)
+          color2 = { 250 210 10 }
+      }
+      c_sottosopral = {
+          b_sottosopral = { }
+          b_saccuti = { }
+          b_giuliana = { }
+          b_arzercavalli = { }
+          b_roverazza = { }
+          b_vigino = { }
+          color = { 226 213 18 }  # rgb(226, 213, 18)
+          color2 = { 250 210 10 }
+      }
+    }
+    c_senzascogliere = {
+        b_propezzano = { }
+        b_dumenza = { }
+        b_porcari = { }
+        b_felisio = { }
+        b_carassai = { }
+        color = { 253 219 44 }  # rgb(253, 219, 44)
+        color2 = { 250 210 10 }
+    }
+    c_piccofiume = {
+        b_vignanello = { }
+        b_ciserns = { }
+        b_carpi = { }
+        b_amica = { }
+        b_mante = { }
+        color = { 238 223 3 }  # rgb(238, 223, 3)
+        color2 = { 250 210 10 }
+    }
+    c_dolcicolline = {
+        b_palombaio = { }
+        b_sinopoli = { }
+        b_bertiolo = { }
+        b_monteu = { }
+        b_olfena = { }
+        color = { 215 206 17 }  # rgb(215, 206, 17)
+        color2 = { 250 210 10 }
+    }
+    c_lucente = {
+        b_lucente = { }
+        b_rincine = { }
+        b_pontecurone = { }
+        b_carinato = { }
+        b_stiappa = { }
+        color = { 209 219 17 }  # rgb(209, 219, 17)
+        color2 = { 250 210 10 }
+    }
+    c_meraviglia = {
+        b_meraviglia = { }
+        b_lavaiano = { }
+        b_dicomano = { }
+        b_masobello = { }
+        b_castria = { }
+        color = { 234 217 0 }  # rgb(234, 217, 0)
+        color2 = { 250 210 10 }
+    }
+    c_barlezia = {
+        b_barlezia = { }
+        b_gutieres = { }
+        b_buttapietra = { }
+        b_flamignano = { }
+        b_passopisciaro = { }
+        b_carmine = { }
+        color = { 207 204 33 }  # rgb(207, 204, 33)
+        color2 = { 250 210 10 }
+    }
+    c_pragetto = {
+        b_parigi = { }
+        b_molise = { }
+        b_breolungi = { }
+        b_cerveleri = { }
+        b_zevio = { }
+        color = { 251 206 14 }  # rgb(251, 206, 14)
+        color2 = { 250 210 10 }
+    }
+    c_pietrina = {
+        b_pietrina = { }
+        b_comparni = { }
+        b_linzana = { }
+        b_iatrinoli = { }
+        b_piaca = { }
+        color = { 252 212 10 }  # rgb(252, 212, 10)
+        color2 = { 250 210 10 }
+    }
+    c_gatti = {
+        b_summaga = { }
+        b_pioppi = { }
+        b_marzolara = { }
+        b_centrache = { }
+        color = { 255 200 21 }  # rgb(255, 200, 21)
+        color2 = { 250 210 10 }
+    }
+    c_collionovastre = {
+        b_collionovastre = { }
+        b_luras = { }
+        b_inglagna = { }
+        b_carbonare = { }
+        b_bosaro = { }
+        b_presenaio = { }
+        color = { 233 207 23 }  # rgb(233, 207, 23)
+        color2 = { 250 210 10 }
+    }
+    c_grandistazza = {
+        b_grandistazza = { }
+        b_cifelli = { }
+        b_roccaporena = { }
+        b_lappach = { }
+        b_carisasca = { }
+        color = { 237 219 38 }  # rgb(237, 219, 38)
+        color2 = { 250 210 10 }
+    }
+    c_argillabene = {
+        b_argillabene = { }
+        b_gargazzone = { }
+        b_tromello = { }
+        b_by = { }
+        b_teria = { }
+        color = { 255 206 20 }  # rgb(255, 206, 20)
+        color2 = { 250 210 10 }
+    }
+    c_beltempo = {
+        b_balangero = { }
+        b_morosolo = { }
+        b_cenciara = { }
+        b_teodorano = { }
+        b_baria = { }
+        color = { 246 194 12 }  # rgb(246, 194, 12)
+        color2 = { 250 210 10 }
+    }
+    c_minierdisale = {
+        b_minierdisale = { }
+        b_impruneta = { }
+        b_albignano = { }
+        b_paoli = { }
+        b_casamorcia = { }
+        b_poiano = { }
+        color = { 255 203 5 }  # rgb(255, 203, 5)
+        color2 = { 250 210 10 }
+    }
+    c_kaduteblue = {
+        b_bareto = { }
+        b_innichen = { }
+        b_chiavicone = { }
+        b_querciola = { }
+        b_olisi = { }
+        color = { 233 225 7 }  # rgb(233, 225, 7)
+        color2 = { 250 210 10 }
+    }
+    c_citsini = {
+        b_citsini = { }
+        b_acerenza = { }
+        b_riramo = { }
+        b_patrica = { }
+        b_anigo = { }
+        color = { 232 205 47 }  # rgb(232, 205, 47)
+        color2 = { 250 210 10 }
+    }
+    c_necinta = {
+        b_necinta = { }
+        b_corvella = { }
+        b_cervedo = { }
+        b_radicondoli = { }
+        b_lorsica = { }
+        color = { 218 206 8 }  # rgb(218, 206, 8)
+        color2 = { 250 210 10 }
+    }
+    c_encia = {
+        b_cuggiono = { }
+        b_pescolla = { }
+        b_biandronno = { }
+        b_ghiffa = { }
+        b_olino = { }
+        color = { 241 222 48 }  # rgb(241, 222, 48)
+        color2 = { 250 210 10 }
+    }
+    c_prasinfio = {
+        b_pescantina = { }
+        b_palazzuolo = { }
+        b_villafrati = { }
+        b_ragada = { }
+        b_braidi = { }
+        b_bardineto = { }
+        b_braz = { }
+        color = { 231 199 27 }  # rgb(231, 199, 27)
+        color2 = { 250 210 10 }
+    }
+    c_virco = {
+      b_piamaggio = { }
+      b_castelverde = { }
+      b_virco = { }
+      b_chiusaforte = { }
+      b_ipplis = { }
+      b_pescomaggiore = { }
+      color = { 245 215 19 }  # rgb(245, 215, 19)
+      color2 = { 250 210 10 }
+    }
+    c_kamaktos = {
+        b_kamaktos = { }
+        b_bracedo = { }
+        b_vito = { }
+        b_sali = { }
+        b_serni = { }
+        color = { 225 205 0 }  # rgb(225, 205, 0)
+        color2 = { 250 210 10 }
+    }
+    c_kozalion = {
+        b_moncapaglia = { }
+        b_felgueiluz = { }
+        b_evivo = { }
+        b_pola = { }
+        b_cenzia = { }
+        color = { 219 209 20 }  # rgb(219, 209, 20)
+        color2 = { 250 210 10 }
+    }
+    c_pallilaia = {
+        b_chovia = { }
+        b_salasa = { }
+        b_averce = { }
+        b_logna = { }
+        b_cera = { }
+        color = { 252 228 18 }  # rgb(252, 228, 18)
+        color2 = { 250 210 10 }
+    }
+    c_porderaele = {
+        b_porderaele = { }
+        b_covera = { }
+        b_peri = { }
+        b_arorvie = { }
+        b_vona = { }
+        color = { 242 208 1 }  # rgb(242, 207, 1)
+        color2 = { 250 210 10 } # rgb(250, 210, 10)
+    }
+    c_gerin = {
+        b_gerin = { }
+        b_ventoia = { }
+        b_cola = { }
+        b_cheria = { }
+        b_varia = { }
+        b_cuso = { }
+        color = { 228 202 33 }  # rgb(228, 202, 33)
+        color2 = { 250 210 10 }
+    }
+    c_sanredonia = {
+        b_sanredonia = { }
+        b_isemo = { }
+        b_pisto = { }
+        b_ceni = { }
+        b_bena = { }
+        color = { 231 217 13 }  # rgb(231, 217, 13)
+        color2 = { 250 210 10 }
+    }
+    c_lilongo = {
+        b_lilongo = { }
+        b_pordi = { }
+        b_luno = { }
+        b_pala = { }
+        b_tano = { }
+        color = { 215 214 2 }  # rgb(215, 214, 2)
+        color2 = { 250 210 10 }
+    }
+    c_vacer = {
+        b_vacer = { }
+        b_otras = { }
+        b_napua = { }
+        b_coli = { }
+        b_chalavia = { }
+        b_iglesa = { }
+        color = { 227 212 32 }  # rgb(227, 212, 32)
+        color2 = { 250 210 10 }
+    }
+    c_valovira = {
+        b_valovira = { }
+        b_cosa = { }
+        b_pano = { }
+        b_trine = { }
+        b_cuse = { }
+        color = { 228 207 29 }  # rgb(228, 207, 29)
+        color2 = { 250 210 10 }
+    }
+    c_santallon = {
+        b_teragusa = { }
+        b_lana = { }
+        b_neza = { }
+        b_antorcia = { }
+        b_luccia = { }
+        color = { 255 210 25 }  # rgb(255, 210, 25)
+        color2 = { 250 210 10 }
+    }
+    c_cales = {
+        b_pesarra = { }
+        b_pausa = { }
+        b_triestoia = { }
+        b_tova = { }
+        b_aleto = { }
+        b_cuna = { }
+        color = { 249 213 18 }  # rgb(249, 213, 18)
+        color2 = { 250 210 10 }
+    }
+    c_ouruna = {
+        b_oureledo = { }
+        b_antone = { }
+        b_seni = { }
+        b_cothraia = { }
+        b_ugias = { }
+        b_leso = { }
+        color = { 251 211 6 }  # rgb(251, 211, 6)
+        color2 = { 250 210 10 }
+    }
+    c_toganes = {
+        b_toganes = { }
+        b_carra = { }
+        b_poba = { }
+        b_caltacenza = { }
+        b_onas = { }
+        b_prono = { }
+        color = { 255 203 42 }  # rgb(255, 203, 42)
+        color2 = { 250 210 10 }
+    }
+    c_mules = {
+        b_mules = { }
+        b_coso = { }
+        b_nova = { }
+        b_calto = { }
+        b_narna = { }
+        color = { 255 202 16 }  # rgb(255, 202, 16)
+        color2 = { 250 210 10 }
+    }
+    c_pietra = {
+        b_kardikastro = { }
+        b_orlino = { }
+        b_pavia = { }
+        b_cerio = { }
+        b_keranghi = { }
+        color = { 252 204 31 }  # rgb(252, 204, 31)
+        color2 = { 250 210 10 }
+    }
+    c_draka = {
+        b_draka = { }
+        b_fatirreja = { }
+        b_adrias = { }
+        b_spausa = { }
+        b_pisa = { }
+        color = { 246 218 30 }  # rgb(246, 218, 30)
+        color2 = { 250 210 10 }
+    }
+    c_mytiftherio = {
+        b_mytiftherio = { }
+        b_siena = { }
+        b_tania = { }
+        b_norco = { }
+        b_setto = { }
+        color = { 247 210 18 }  # rgb(247, 210, 18)
+        color2 = { 250 210 10 }
+    }
+    c_stalcis = {
+        b_stalcis = { }
+        b_coni = { }
+        b_taneo = { }
+        b_gento = { }
+        b_caso = { }
+        b_astori = { }
+        b_mazaci = { }
+        color = { 255 201 26 }  # rgb(255, 201, 26)
+        color2 = { 250 210 10 }
+    }
+    c_vavigo = {
+        b_vavigo = { }
+        b_abranda = { }
+        b_aporcia = { }
+        b_pobia = { }
+        b_bielli = { }
+        b_selona = { }
+        color = { 255 198 9 }  # rgb(255, 198, 9)
+        color2 = { 250 210 10 }
+    }
+    c_sassassina = {
+        b_valobal = { }
+        b_tremo = { }
+        b_cesi = { }
+        b_rezza = { }
+        b_cella = { }
+        color = { 239 228 34 }  # rgb(239, 228, 34)
+        color2 = { 250 210 10 }
+    }
+    c_picersala = {
+        b_picersala = { }
+        b_taria = { }
+        b_guadartos = { }
+        b_celli = { }
+        b_vieti = { }
+        color = { 224 219 19 }  # rgb(224, 219, 19)
+        color2 = { 250 210 10 }
+    }
+    c_ririm = {
+        b_ririm = { }
+        b_toria = { }
+        b_pali = { }
+        b_pante = { }
+        color = { 216 210 32 }  # rgb(216, 210, 32)
+        color2 = { 250 210 10 }
+    }
+    c_valpalos = {
+        b_valpalos = { }
+        b_nissa = { }
+        b_trossa = { }
+        b_genta = { }
+        b_macia = { }
+        color = { 248 206 13 }  # rgb(248, 206, 13)
+        color2 = { 250 210 10 }
+    }
+    c_gafaja = {
+        b_thessazi = { }
+        b_sena = { }
+        b_cero = { }
+        b_enzas = { }
+        b_veri = { }
+        b_molforl = { }
+        color = { 224 219 49 }  # rgb(224, 219, 49)
+        color2 = { 250 210 10 }
+    }
+  }
+
+  k_merkkantia = {
+    capital = 10
+    color = { 255	230	20 } # rgb(255,230,20)
+    color2 = { 253 173 0 }
+    culture = costanordi
+
+    d_merkkantia = {
+      capital = 10
+      color = { 255	230	20 } # rgb(255,230,20)
+      color2 = { 253 173 0 }
+      culture = costanordi
+      c_merkkantia = {
+          b_villammare = { }
+          b_acquafredda = { }
+          b_poggetello = { }
+          b_cadola = { }
+          b_giarole = { }
+          b_sghittosa = { }
+          color = { 255	230	20 } # rgb(255,230,20)
+          color2 = { 107 244 138 }
+      }
+      c_merkkani = {
+          b_merkkani = { }
+          b_carzeto = { }
+          b_cagliari = { }
+          b_resina = { }
+          b_piasco = { }
+          color = { 235	218	78 } # rgb(235,218,78)
+          color2 = { 107 244 138 }
+      }
+      c_pikksilia = {
+          b_casaltone = { }
+          b_carbonara = { }
+          b_borassi = { }
+          b_giusoria = { }
+          b_spali = { }
+          color = { 255	246	151 } # rgb(255,246,151)
+          color2 = { 107 244 138 }
+      }
+    }
+  }
+
+}

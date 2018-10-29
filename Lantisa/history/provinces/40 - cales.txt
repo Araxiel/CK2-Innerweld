@@ -1,0 +1,21 @@
+# 40 - Cales
+
+# County Title
+title = c_cales
+
+# Settlements
+max_settlements = 6
+b_pesarra = castle
+b_pausa = city
+b_triestoia = temple
+
+#b_tova
+#b_aleto
+#b_cuna
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

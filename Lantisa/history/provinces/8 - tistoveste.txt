@@ -1,10 +1,20 @@
+# 8 - Tistoveste
+
 # County Title
 title = c_tistoveste
 
 # Settlements
-max_settlements = 2
-b_ceregnano = tribal
+max_settlements = 5
+b_ceregnano = castle
+b_arzano = city
+b_roccaraso = temple
+
+#b_pietracalcina
+#b_turbigo
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

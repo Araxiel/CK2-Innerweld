@@ -1,10 +1,21 @@
+# 5 - Sottosopral
+
 # County Title
 title = c_sottosopral
 
 # Settlements
-max_settlements = 2
-b_sottosopral = tribal
+max_settlements = 6
+b_sottosopral = castle
+b_saccuti = city
+b_giuliana = temple
+
+#b_arzercavalli
+#b_roverazza
+#b_vigino
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

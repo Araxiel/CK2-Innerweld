@@ -1,10 +1,21 @@
+# 23 - Minierdisale
+
 # County Title
 title = c_minierdisale
 
 # Settlements
-max_settlements = 1
+max_settlements = 6
 b_minierdisale = castle
+b_impruneta = city
+b_albignano = temple
+
+#b_paoli
+#b_casamorcia
+#b_poiano
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

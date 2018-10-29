@@ -1,0 +1,20 @@
+# 30 - Kamaktos
+
+# County Title
+title = c_kamaktos
+
+# Settlements
+max_settlements = 5
+b_kamaktos = castle
+b_bracedo = city
+b_vito = temple
+
+#b_sali
+#b_serni
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

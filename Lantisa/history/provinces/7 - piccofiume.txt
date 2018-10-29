@@ -1,10 +1,20 @@
+# 7 - Piccofiume
+
 # County Title
 title = c_piccofiume
 
 # Settlements
-max_settlements = 2
-b_vignanello = tribal
+max_settlements = 5
+b_vignanello = castle
+b_ciserns = city
+b_carpi = temple
+
+#b_amica
+#b_mante
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

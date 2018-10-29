@@ -1,0 +1,20 @@
+# 43 - Mules
+
+# County Title
+title = c_mules
+
+# Settlements
+max_settlements = 5
+b_mules = castle
+b_coso = city
+b_nova = temple
+
+#b_calto
+#b_narna
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

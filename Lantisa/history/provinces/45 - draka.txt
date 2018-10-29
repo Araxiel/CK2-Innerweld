@@ -1,0 +1,20 @@
+# 45 - Draka
+
+# County Title
+title = c_draka
+
+# Settlements
+max_settlements = 5
+b_draka = castle
+b_fatirreja = city
+b_adrias = temple
+
+#b_spausa
+#b_pisa
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History
