@@ -1,0 +1,20 @@
+# 31 - Kozalion
+
+# County Title
+title = c_kozalion
+
+# Settlements
+max_settlements = 5
+b_moncapaglia = castle
+b_felgueiluz = city
+b_evivo = temple
+
+#b_pola
+#b_cenzia
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

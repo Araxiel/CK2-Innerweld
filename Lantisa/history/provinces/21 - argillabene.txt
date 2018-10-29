@@ -1,10 +1,20 @@
+# 21 - Argillabene
+
 # County Title
 title = c_argillabene
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 b_argillabene = castle
+b_gargazzone = city
+b_tromello = temple
+
+#b_by
+#b_teria
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

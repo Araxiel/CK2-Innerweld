@@ -1,10 +1,20 @@
+# 16 - Pragetto
+
 # County Title
 title = c_pragetto
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 b_parigi = castle
+b_molise = city
+b_breolungi = temple
+
+#b_cerveleri
+#b_zevio
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

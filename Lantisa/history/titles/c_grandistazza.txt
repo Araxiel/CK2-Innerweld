@@ -1,0 +1,48 @@
+# Generated
+1582.7.17 = {
+    holder = 86540     # Marsiglio Vesco
+}
+
+1633.7.9 = {
+    holder = 86542     # Lionel Vesco
+}
+
+1675.5.23 = {
+    holder = 86546     # Adelmo Vesco
+}
+
+1707.8.16 = {
+    holder = 86552     # Alighiero Vesco
+}
+
+1732.6.23 = {
+    holder = 86556     # Gelasio Vesco
+}
+
+1798.10.22 = {
+    holder = 86561     # Nicholas Vesco
+}
+
+1801.6.8 = {
+    holder = 86568     # Vitale Vesco
+}
+
+1834.1.14 = {
+    holder = 86573     # Spinetto Vesco
+}
+
+1848.9.3 = {
+    holder = 86577     # Buoso Vesco
+}
+
+1903.5.22 = {
+    holder = 86582     # Bassiano Vesco
+}
+
+1970.9.13 = {
+    holder = 86586     # Davide Vesco
+}
+
+2030.1.12 = {
+    holder = 86591     # Torquato Vesco
+}

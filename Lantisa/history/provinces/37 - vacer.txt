@@ -1,0 +1,21 @@
+# 37 - Vacer
+
+# County Title
+title = c_vacer
+
+# Settlements
+max_settlements = 6
+b_vacer = castle
+b_otras = city
+b_napua = temple
+
+#b_coli
+#b_chalavia
+#b_iglesa
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

@@ -1,0 +1,20 @@
+# 33 - Porderaele
+
+# County Title
+title = c_porderaele
+
+# Settlements
+max_settlements = 5
+b_porderaele = castle
+b_covera = city
+b_peri = temple
+
+#b_arorvie
+#b_vona
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

@@ -1,10 +1,20 @@
+# 26 - Necinta
+
 # County Title
 title = c_necinta
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 b_necinta = castle
+b_corvella = city
+b_cervedo = temple
+
+#b_radicondoli
+#b_lorsica
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

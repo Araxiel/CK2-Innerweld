@@ -1,10 +1,19 @@
+# 18 - Gatti
+
 # County Title
 title = c_gatti
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 b_summaga = castle
+b_pioppi = city
+b_marzolara = temple
+
+#b_centrache
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

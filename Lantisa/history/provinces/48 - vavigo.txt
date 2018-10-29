@@ -1,0 +1,21 @@
+# 48 - Vavigo
+
+# County Title
+title = c_vavigo
+
+# Settlements
+max_settlements = 6
+b_vavigo = castle
+b_abranda = city
+b_aporcia = temple
+
+#b_pobia
+#b_bielli
+#b_selona
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

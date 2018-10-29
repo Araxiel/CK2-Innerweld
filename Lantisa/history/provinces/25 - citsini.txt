@@ -1,10 +1,20 @@
+# 25 - Citsini
+
 # County Title
 title = c_citsini
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 b_citsini = castle
+b_acerenza = city
+b_riramo = temple
+
+#b_patrica
+#b_anigo
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

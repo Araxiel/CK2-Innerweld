@@ -1,0 +1,21 @@
+# 42 - Toganes
+
+# County Title
+title = c_toganes
+
+# Settlements
+max_settlements = 6
+b_toganes = castle
+b_carra = city
+b_poba = temple
+
+#b_giusoria
+#b_onas
+#b_prono
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

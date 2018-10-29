@@ -1,0 +1,20 @@
+# 38 - Valovira
+
+# County Title
+title = c_valovira
+
+# Settlements
+max_settlements = 5
+b_valovira = castle
+b_cosa = city
+b_pano = temple
+
+#b_trine
+#b_cuse
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

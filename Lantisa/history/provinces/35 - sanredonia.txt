@@ -1,0 +1,20 @@
+# 35 - Sanredonia
+
+# County Title
+title = c_sanredonia
+
+# Settlements
+max_settlements = 5
+b_sanredonia = castle
+b_isemo = city
+b_pisto = temple
+
+#b_ceni
+#b_bena
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

@@ -1,0 +1,20 @@
+# 49 - Sassassina
+
+# County Title
+title = c_sassassina
+
+# Settlements
+max_settlements = 5
+b_valobal = castle
+b_tremo = city
+b_cesi = temple
+
+#b_rezza
+#b_cella
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

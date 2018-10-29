@@ -1,10 +1,20 @@
+# 22 - Beltempo
+
 # County Title
 title = c_beltempo
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 b_balangero = castle
+b_morosolo = city
+b_cenciara = temple
+
+#b_teodorano
+#b_baria
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

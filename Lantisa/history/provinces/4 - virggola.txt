@@ -1,3 +1,5 @@
+# 4 - Virggola
+
 # County Title
 title = c_virggola
 
@@ -7,14 +9,12 @@ b_virggola = castle
 b_strikkania = city
 b_crecchio = temple
 
-# Misc
-culture = costanordi
-religion = catholic
-
-#b_virggola
-#b_strikkania
-#b_crecchio
 #b_alguer
 #b_colugna
 
-1950.5.10 = { b_alguer = city }
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

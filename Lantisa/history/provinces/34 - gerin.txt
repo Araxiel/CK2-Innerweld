@@ -1,0 +1,21 @@
+# 34 - Gerin
+
+# County Title
+title = c_gerin
+
+# Settlements
+max_settlements = 6
+b_gerin = castle
+b_ventoia = city
+b_cola = temple
+
+#b_cheria
+#b_varia
+#b_cuso
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

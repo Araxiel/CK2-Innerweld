@@ -1,10 +1,20 @@
+# 6 - Senzascogliere
+
 # County Title
 title = c_senzascogliere
 
 # Settlements
-max_settlements = 2
-b_propezzano = tribal
+max_settlements = 5
+b_propezzano = castle
+b_dumenza = city
+b_porcari = temple
+
+#b_felisio
+#b_carassai
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

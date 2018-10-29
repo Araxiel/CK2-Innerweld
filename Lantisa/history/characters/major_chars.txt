@@ -7,7 +7,7 @@
 	dynasty = 700100
 	#culture = isenfolk
 	culture = german
-	religion = catholic
+	religion = great_gods
 	#stats
 	martial = 8
 	diplomacy = 6

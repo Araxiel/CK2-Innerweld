@@ -1,0 +1,20 @@
+# 44 - Pietra
+
+# County Title
+title = c_pietra
+
+# Settlements
+max_settlements = 5
+b_kardikastro = castle
+b_orlino = city
+b_pavia = temple
+
+#b_cerio
+#b_keranghi
+
+# Misc
+culture = costanordi
+religion = great_gods
+terrain = plains
+
+# History

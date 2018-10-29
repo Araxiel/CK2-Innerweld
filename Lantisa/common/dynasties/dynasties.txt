@@ -15,6 +15,11 @@
 	culture = merkkantini
 }
 
+55010 = {
+	name = Vesco
+	culture = costanordi
+}
+
 
 ## Middleweld
 

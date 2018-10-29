@@ -1,10 +1,20 @@
+# 9 - Dolcicolline
+
 # County Title
 title = c_dolcicolline
 
 # Settlements
-max_settlements = 2
-b_palombaio = tribal
+max_settlements = 5
+b_palombaio = castle
+b_sinopoli = city
+b_bertiolo = temple
+
+#b_monteu
+#b_olfena
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

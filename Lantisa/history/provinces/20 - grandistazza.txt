@@ -1,10 +1,20 @@
+# 20 - Grandistazza
+
 # County Title
 title = c_grandistazza
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 b_grandistazza = castle
+b_cifelli = city
+b_roccaporena = temple
+
+#b_lappach
+#b_carisasca
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

@@ -1,10 +1,21 @@
+# 15 - Barlezia
+
 # County Title
 title = c_barlezia
 
 # Settlements
-max_settlements = 1
+max_settlements = 6
 b_barlezia = castle
+b_gutieres = city
+b_buttapietra = temple
+
+#b_flamignano
+#b_passopisciaro
+#b_carmine
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History

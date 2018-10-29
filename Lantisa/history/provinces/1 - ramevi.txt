@@ -1,11 +1,21 @@
+# 1 - Ramevi
+
 # County Title
 title = c_ramevi
 
 # Settlements
-max_settlements = 2
+max_settlements = 6
 b_wevi = castle
-b_balagmo = temple
+b_balagmo = city
+b_calatafimi = temple
+
+#b_medolla
+#b_lagarina
+#b_castana
 
 # Misc
 culture = costanordi
-religion = catholic
+religion = great_gods
+terrain = plains
+
+# History
