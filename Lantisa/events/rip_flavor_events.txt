@@ -8107,7 +8107,7 @@ character_event = {
 
 #######################################
 # LIEGE INTERFERES IN VASSAL WARS
-# by Henrik Fåhraeus
+# by Henrik Fï¿½hraeus
 #######################################
 
 # Vassal is asked by Liege to stop war of aggression against another vassal
@@ -10707,7 +10707,7 @@ character_event = {
 						name = Eugenia
 						culture = italian
 						race = italian
-						religion = catholic
+						religion = great_gods
 						trait = mastermind_theologian
 						trait = nun
 						trait = chaste
@@ -10731,7 +10731,7 @@ character_event = {
 						name = Augusto
 						culture = italian
 						race = italian
-						religion = catholic
+						religion = great_gods
 						trait = mastermind_theologian
 						trait = monk
 						trait = chaste
@@ -12093,7 +12093,7 @@ character_event = {
 				random_traits = no
 				name = "Ramirez"
 				dynasty = none
-				religion = catholic
+				religion = great_gods
 				culture = scottish
 				female = no
 				age = 1500
@@ -12159,7 +12159,7 @@ character_event = {
 				random_traits = no
 				name = "Arthur"
 				dynasty = none
-				religion = catholic
+				religion = great_gods
 				culture = breton
 				female = no
 				age = 950
