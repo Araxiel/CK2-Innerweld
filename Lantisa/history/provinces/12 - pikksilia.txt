@@ -1,0 +1,15 @@
+# County Title
+title = c_pikksilia
+
+# Settlements
+max_settlements = 3
+b_casaltone = temple
+b_carbonara = city
+
+#b_casaltone
+#b_carbonara
+#b_borassi
+
+# Misc
+culture = merkkantini
+religion = catholic

@@ -1,0 +1,22 @@
+# County Title
+title = c_merkkantia
+
+# Settlements
+max_settlements = 6
+b_villammare = city
+b_acquafredda = castle
+b_poggetello = temple
+
+#b_villammare
+#b_acquafredda
+#b_poggetello
+#b_cadola
+#b_giarole
+#b_sghittosa
+
+# Misc
+culture = merkkantini
+religion = catholic
+
+1997.1.24 = { b_cadola = city }
+2107.11.28 = { b_giarole = city }

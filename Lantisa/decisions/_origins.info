@@ -1,0 +1,27 @@
+vanilla ck2:
+
+  conversion_decisions
+  councillor_decision
+  dynasty_decisions
+  employment_decisions
+  faction_decisions
+  fort_decisions
+  HL_clan_decisions
+  HL_mercenary_decisions
+  HL_title_decisions
+  hospital_decisions
+  jd_decisions
+  minor_decisions
+  plot_decisions
+  realm_decisions
+  rip_torture_decisions
+  rip_various_decisions
+  settlement_decisions
+  title_decisions
+  trade_post_decisions
+  unit_decisions
+  vassal_decisions
+  way_of_life_decisions
+  ze_ambition_decisions
+  ze_decisions
+  ze_war_chest

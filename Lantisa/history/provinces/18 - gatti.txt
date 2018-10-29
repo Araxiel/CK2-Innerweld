@@ -1,0 +1,10 @@
+# County Title
+title = c_gatti
+
+# Settlements
+max_settlements = 1
+b_summaga = castle
+
+# Misc
+culture = costanordi
+religion = catholic

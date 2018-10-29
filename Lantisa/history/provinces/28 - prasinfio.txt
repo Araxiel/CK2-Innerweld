@@ -1,0 +1,10 @@
+# County Title
+title = c_prasinfio
+
+# Settlements
+max_settlements = 1
+b_pescantina = castle
+
+# Misc
+culture = costanordi
+religion = catholic

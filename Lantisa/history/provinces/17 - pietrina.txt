@@ -1,0 +1,10 @@
+# County Title
+title = c_pietrina
+
+# Settlements
+max_settlements = 1
+b_pietrina = castle
+
+# Misc
+culture = costanordi
+religion = catholic

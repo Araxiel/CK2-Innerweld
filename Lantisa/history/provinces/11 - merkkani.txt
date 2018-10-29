@@ -1,0 +1,18 @@
+# County Title
+title = c_merkkani
+
+# Settlements
+max_settlements = 5
+b_merkkani = city
+b_carzeto = castle
+b_cagliari = temple
+
+#b_merkkani
+#b_carzeto
+#b_cagliari
+#b_resina
+#b_piasco
+
+# Misc
+culture = merkkantini
+religion = catholic

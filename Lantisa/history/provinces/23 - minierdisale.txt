@@ -1,0 +1,10 @@
+# County Title
+title = c_minierdisale
+
+# Settlements
+max_settlements = 1
+b_minierdisale = castle
+
+# Misc
+culture = costanordi
+religion = catholic

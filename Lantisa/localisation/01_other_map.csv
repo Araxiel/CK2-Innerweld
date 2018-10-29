@@ -1,0 +1,42 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+PROV54;Göttersee;;;;;;;;;;;;;
+PROV55;Mund des Göttersees;;;;;;;;;;;;;
+PROV56;Dark Black, first in bay;;;;;;;;;;;;;
+PROV57;Next Right 1;;;;;;;;;;;;;
+PROV58;Next Right 2;;;;;;;;;;;;;
+PROV59;Next Right 3;;;;;;;;;;;;;
+PROV60;Next Right 4;;;;;;;;;;;;;
+PROV61;Merkkantia Sea;;;;;;;;;;;;;
+PROV62;Next Right 6;;;;;;;;;;;;;
+PROV63;Big River Lake Opening Gray;;;;;;;;;;;;;
+PROV64;Open Sea West of Merkk;;;;;;;;;;;;;
+PROV65;Kinda around the zipfel;;;;;;;;;;;;;
+PROV66;Near opening into inner-sea;;;;;;;;;;;;;
+PROV67;Into the inner-sea;;;;;;;;;;;;;
+PROV68;Kalmbuchd;;;;;;;;;;;;;
+PROV69;Göttersee Approach;;;;;;;;;;;;;
+PROV70;Vhestbuchd;;;;;;;;;;;;;
+PROV71;Nyugodt Bay;;;;;;;;;;;;;
+PROV72;South of Nyuugdgog;;;;;;;;;;;;;
+PROV73;Green Around Peninsula;;;;;;;;;;;;;
+PROV74;Open Sea Black;;;;;;;;;;;;;
+PROV75;Open Sea Red;;;;;;;;;;;;;
+PROV76;Kalmbuchd;;;;;;;;;;;;;
+PROV77;Göttersee Approach;;;;;;;;;;;;;
+PROV78;Vhestbuchd;;;;;;;;;;;;;
+PROV79;Nyugodt Bay;;;;;;;;;;;;;
+PROV80;South of Nyuugdgog;;;;;;;;;;;;;
+PROV81;Green Around Peninsula;;;;;;;;;;;;;
+PROV82;Open Sea Black;;;;;;;;;;;;;
+PROV83;Large river connection;;;;;;;;;;;;;
+PROV84;Msmall middle-lake;;;;;;;;;;;;;
+PROV85;Inner Sea opening;;;;;;;;;;;;;
+
+# e_pirates;Pirates;;;;;;;;;;;;;
+# e_pirates_adj;Pirate;;;;;;;;;;;;;
+# e_rebels;Rebels;;;;;;;;;;;;;
+# e_rebels_adj;Rebel;;;;;;;;;;;;;
+
+## Region
+
+world_costenorda;Costenorda;;;;;;;;;;;;;

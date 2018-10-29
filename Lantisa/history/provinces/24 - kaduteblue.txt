@@ -1,0 +1,10 @@
+# County Title
+title = c_kaduteblue
+
+# Settlements
+max_settlements = 1
+b_bareto = castle
+
+# Misc
+culture = costanordi
+religion = catholic

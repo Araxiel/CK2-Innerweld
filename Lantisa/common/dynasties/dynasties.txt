@@ -1,0 +1,24 @@
+## Costanordi
+
+500100 = {
+	name = Afataili
+	culture = costanordi
+}
+
+501100 = {
+	name = Bonaccorso
+	culture = merkkantini
+}
+
+501200 = {
+	name = Tamaro
+	culture = merkkantini
+}
+
+
+## Middleweld
+
+700100 = {
+	name = Streykarion
+	culture = german
+}

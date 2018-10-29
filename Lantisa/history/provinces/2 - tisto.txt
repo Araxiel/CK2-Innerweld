@@ -1,0 +1,10 @@
+# County Title
+title = c_tisto
+
+# Settlements
+max_settlements = 2
+b_silas = tribal
+
+# Misc
+culture = costanordi
+religion = catholic

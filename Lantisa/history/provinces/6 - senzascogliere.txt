@@ -1,0 +1,10 @@
+# County Title
+title = c_senzascogliere
+
+# Settlements
+max_settlements = 2
+b_propezzano = tribal
+
+# Misc
+culture = costanordi
+religion = catholic
